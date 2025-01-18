@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "990958728298",
+    "firebase_url": "https://todolistappflutter-727a1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todolistappflutter-727a1",
+    "storage_bucket": "todolistappflutter-727a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990958728298:android:60b6c15e9dcd42dd7c0613",
+        "android_client_info": {
+          "package_name": "com.example.todo_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjNbjucIV_AgzBBgvTZo4SMIdXdjhIJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

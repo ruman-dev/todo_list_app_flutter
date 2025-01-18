@@ -7,11 +7,9 @@ class TodoListApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'To Do List App',
-      color: Colors.black54,
-      home: Scaffold(
-        body: HomeScreen(),
-      ),
+      debugShowCheckedModeBanner: false,
+      title: 'Todo List App',
+      home: HomeScreen(),
     );
   }
 }
